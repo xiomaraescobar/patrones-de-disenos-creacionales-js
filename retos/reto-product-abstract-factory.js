@@ -109,7 +109,6 @@ class Device {
     }
 }
 
-// Ejemplo de uso
 const phoneFactory = new PhoneFactory();
 const laptopFactory = new LaptopFactory();
 const tabletFactory = new TabletFactory();

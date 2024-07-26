@@ -52,7 +52,7 @@ class ClientApp {
     }
 }
 
-// Ejemplo de uso:
+
 // Se crea una instancia de ClientApp con el tipo de adaptador 'Custom'
 const app = new ClientApp('Custom');
 // Se llama al método performRequests para realizar las solicitudes HTTP
